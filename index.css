@@ -1,0 +1,15 @@
+header{
+  background-color: lightblue;
+  color:black;
+  padding:2%;
+  text-align: center;
+  font-size:35px;
+  margin:1%;
+  box-shadow:3px 3px 3px black;
+  border:2px solid black;
+}
+a img{
+  width:5%;
+  display:block;
+  margin-left:auto;
+}
